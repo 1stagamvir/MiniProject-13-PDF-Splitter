@@ -1,5 +1,4 @@
 # MiniProject-13-PDF-Splitter
-# PDF Splitter Tool
 
 A lightweight Python tool for splitting PDF documents into smaller files using PyPDF2. Easily extract specific pages or ranges from large PDF files.
 
